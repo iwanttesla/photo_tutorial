@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BE314A39-9E49-46C5-9628-198CA03E2747"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F96911D4-CF76-4B21-A18D-992AFD77D061"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "photo_tutorial/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F96911D4-CF76-4B21-A18D-992AFD77D061 - a2c7788342c0c868"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photo_tutorial.ViewController.profileImage.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "photo_tutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocube/Desktop/photo_tutorial/photo_tutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F96911D4-CF76-4B21-A18D-992AFD77D061 - 7ec659d42a231c14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photo_tutorial.ViewController.profileImage.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "photo_tutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocube/Desktop/photo_tutorial/photo_tutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F96911D4-CF76-4B21-A18D-992AFD77D061 - a7d0b76011bd2365"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photo_tutorial.ViewController.profileImage.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "photo_tutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocube/Desktop/photo_tutorial/photo_tutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F96911D4-CF76-4B21-A18D-992AFD77D061 - a9cbdc7dcd7bc618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photo_tutorial.ViewController.profileImage.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "photo_tutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocube/Desktop/photo_tutorial/photo_tutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F96911D4-CF76-4B21-A18D-992AFD77D061 - 38852349a2642f98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photo_tutorial.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; photo_tutorial.ViewController"
+                  moduleName = "photo_tutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocube/Desktop/photo_tutorial/photo_tutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "F96911D4-CF76-4B21-A18D-992AFD77D061 - 8afbdbc4c528f95c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photo_tutorial.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;photo_tutorial.ViewController&gt;"
+                  moduleName = "photo_tutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocube/Desktop/photo_tutorial/photo_tutorial/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

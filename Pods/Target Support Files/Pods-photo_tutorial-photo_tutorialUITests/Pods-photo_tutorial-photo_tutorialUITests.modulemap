@@ -1,0 +1,6 @@
+framework module Pods_photo_tutorial_photo_tutorialUITests {
+  umbrella header "Pods-photo_tutorial-photo_tutorialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
